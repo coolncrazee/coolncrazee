@@ -2,12 +2,11 @@
 
 Builder and operator who ships **AI products end-to-end** — from concept and ML to
 product, front-end, and go-to-market. BMath, University of Waterloo. Applied-finance +
-AI, with hands-on LLM and data work. Currently open to **consulting, AI, and analyst
-roles in Canada.**
+AI, with hands-on LLM and data work.
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 ### MetaCogni™ — AI cost visibility & prompt intelligence
 🌐 **[metacogni.ai](https://metacogni.ai)** · 🧩 **[Install on Chrome Web Store](https://chromewebstore.google.com/detail/metacogni-ai-cost-tracker/caeohgeaelmbkgdfpjdjefjdlfkhpdkl)** · 🎬 **[Demo video](https://youtu.be/BCtM8z3oBYc)**
@@ -50,6 +49,6 @@ AI/LLM integration · prompt engineering · product & operations · Python · Ty
 data & analytics · applied finance · crypto/web3
 
 ## 📫 Reach me
-Open to **consulting / AI / analyst roles in Canada**.
+Open to **consulting / AI / analyst / finance roles in Canada/Remote**.
 <!-- add before publishing: LinkedIn URL + email if you want them public -->
 
