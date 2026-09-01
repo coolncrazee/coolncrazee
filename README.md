@@ -37,17 +37,6 @@ mix issues, structure, release-readiness), then ask follow-up questions in natur
 
 *Source is private — demo or walkthrough available on request.*
 
-### SplitEstate — fractional real-estate investing
-🌐 **[Live demo](https://split-estate-v1.vercel.app/)** · 💻 **[Code](https://github.com/coolncrazee/split-estate)**
-
-A platform concept that lets retail investors buy **fractional shares of income-generating
-properties**, earn passive rental income, and trade shares on a secondary market — entry
-from as little as ~₹6,000. Marketplace + IROs, Hot Zones area analytics, an investor
-dashboard, and escrow-backed transactions. Built for first-time investors priced out of
-whole-property ownership.
-- **Stack:** HTML / CSS / JavaScript · Razorpay Checkout · Vercel
-- **My role:** concept, product design, and full build.
-
 ---
 
 ## 🛠️ Also public here
