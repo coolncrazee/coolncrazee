@@ -1,13 +1,14 @@
 # Hi, I'm Krish 👋
 
-Builder and operator who ships **AI products end-to-end** — from concept and ML to
-product, front-end, and go-to-market. BMath, University of Waterloo. Applied-finance +
-AI, with hands-on LLM and data work. Currently open to **consulting, AI, and analyst
-roles in Canada.**
+Builder and operator who ships **AI products end-to-end** — concept, ML, product,
+front-end, and go-to-market — and builds **autonomous agents** to automate the
+unglamorous parts (market research, GTM signal, a real job hunt). BMath, University
+of Waterloo. Applied-finance + AI background, with hands-on LLM, data, and crypto
+work. Open to **consulting, AI, product, and analyst roles in Canada.**
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured products
 
 ### MetaCogni™ — AI cost visibility & prompt intelligence
 🌐 **[metacogni.ai](https://metacogni.ai)** · 🧩 **[Install on Chrome Web Store](https://chromewebstore.google.com/detail/metacogni-ai-cost-tracker/caeohgeaelmbkgdfpjdjefjdlfkhpdkl)** · 🎬 **[Demo video](https://youtu.be/BCtM8z3oBYc)**
@@ -39,6 +40,25 @@ mix issues, structure, release-readiness), then ask follow-up questions in natur
 
 ---
 
+## ⚙️ Autonomous agents — *public, read the code*
+
+Small, dependency-free Node.js agents I built to automate real work. Same
+architecture (poll → score → notify → digest), pointed at different problems.
+
+### [cmo-agent](https://github.com/coolncrazee/cmo-agent) — marketing-opportunity monitor
+Watches Hacker News + Reddit for conversations hitting a product's pain points,
+scores each by relevance/velocity/freshness, and drafts an **organic** way to engage —
+built to support MetaCogni's go-to-market. **Read-only by design:** it surfaces and
+suggests; it never posts, votes, or comments. No spam, judgment stays with the human.
+
+### [job-finder](https://github.com/coolncrazee/job-finder) — autonomous job-matching bot
+Polls curated job repos + public company ATS boards (Greenhouse/Ashby/Lever), scores
+every posting against a configurable profile, enriches live postings for the *real*
+requirements, and surfaces best-fit matches on a clickable, auto-deployed board with
+macOS notifications. Finds and ranks; you apply.
+
+---
+
 ## 🛠️ Also public here
 - **[merge](https://github.com/coolncrazee/merge)** — merge thousands of Excel files in custom formats in one run (Python)
 - **[transfer-records](https://github.com/coolncrazee/transfer-records)** — migrate data from MS-SQL to Postgres in one run (Python)
@@ -46,10 +66,9 @@ mix issues, structure, release-readiness), then ask follow-up questions in natur
 - **[popgg](https://github.com/coolncrazee/popgg)** — Proof of Play: game governance
 
 ## 🧰 Skills
-AI/LLM integration · prompt engineering · product & operations · Python · TypeScript/JS ·
-data & analytics · applied finance · crypto/web3
+AI/LLM integration · prompt engineering · autonomous agents · product & operations ·
+Python · TypeScript/JS · data & analytics · applied finance · crypto/web3
 
 ## 📫 Reach me
-Open to **consulting / AI / analyst roles in Canada**.
+Open to **consulting / AI / product / analyst roles in Canada**.
 <!-- add before publishing: LinkedIn URL + email if you want them public -->
-
